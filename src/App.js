@@ -1,5 +1,5 @@
 import './index.css';
-import React, { Component } from 'react'
+import React from 'react'
 import { BrowserRouter as Router } from 'react-router-dom';
 import Home from './Pages';
 
